@@ -1,0 +1,60 @@
+﻿body{
+  background-color:#80A1FE;
+  font-family:#arial;
+  margin:0 auto;
+}
+h1, h2, h3, h4, h5, h6{
+  color:#cc6600;
+  font-weight:500;
+}
+nav{
+  position: absolute;
+  background-color:#80A1FE;
+  width:100%;
+}
+
+nav ul{
+  width:80%;
+  margin:0 auto;
+}
+nav ul li{
+  display:inline-block;
+  padding:1%;
+}
+nav ul li a{
+  color:black;
+  font-size:1em;
+  text-decoration:none;
+  padding:5px;
+}
+nav ul li a:hover{
+  cursor:pointer;
+  background-color: #FFFAF0;
+}
+
+#main-content{
+  width: 70%;
+  margin: 0 auto;
+  border: 1px solid ্র808080;
+  min-height:200px;
+  background-color:white;
+  padding:3%;
+}
+
+input[type="text"],input[type="password"]{
+ width:300px;
+ border-radius:8px;
+ padding: 5px;
+    border: 1px solid #c6c6c6;
+}
+input[type="submit"]{
+  width: 100px;
+  padding: 3px;
+  font-size: 1.2em;
+  background-color: grey;
+  border-radius: 10px;
+}
+input[type="submit"]:hover{
+  cursor:pointer;
+  background-color: green;
+}
