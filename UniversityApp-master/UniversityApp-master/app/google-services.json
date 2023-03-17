@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "437488195282",
+    "firebase_url": "https://nstu-ee6b6.firebaseio.com",
+    "project_id": "nstu-ee6b6",
+    "storage_bucket": "nstu-ee6b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437488195282:android:8fa34d37a7ec93e9",
+        "android_client_info": {
+          "package_name": "com.nstu.www.nstu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437488195282-ce98v8drv9gog4541pecegoie8do1gqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nstu.www.nstu",
+            "certificate_hash": "0ed814928300930f4a4ccf52a4d7759f3fd17fed"
+          }
+        },
+        {
+          "client_id": "437488195282-bjvcflmjvq71qmjgaabur1qjk6u3jjdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQ3QwlotQLGialRPPnDxONy_JudsJlp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437488195282-bjvcflmjvq71qmjgaabur1qjk6u3jjdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

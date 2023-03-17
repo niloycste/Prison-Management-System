@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/piash"
+    android:gravity="bottom|center"
+
+
+    tools:context="com.nstu.www.nstu.Splash">
+
+    <android.support.v4.widget.ContentLoadingProgressBar
+        android:id="@+id/progressBarId"
+        android:progressBackgroundTint="#000000"
+        android:progressTint="#8B4513"
+        android:layout_margin="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        />
+
+
+</LinearLayout>
